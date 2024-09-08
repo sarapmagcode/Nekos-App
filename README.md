@@ -13,6 +13,8 @@
 
 ## Technologies and Frameworks
 
+- **Retrofit**: Networking library for Android that simplifies handling of RESTful web services in your apps.
+
 ## Nekos API
 
 The android app makes use of the [Nekos API](https://nekosapi.com/docs/api-introduction),
