@@ -11,7 +11,7 @@
 
 ## Previews
 
-| <img src="https://github.com/user-attachments/assets/ad718bf9-7537-498e-8228-bb0811541f0b" alt="Screenshot 1" width="200"/> | <img src="https://github.com/user-attachments/assets/22eb4585-6140-4b19-9f06-dc071b62e927" alt="Screenshot 2" width="200"/> |
+| <img src="" alt="Screenshot 1" width="150"/> | <img src=""/> |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | <p align="center">Random Images List</p>                                                    | <p align="center">Download Image</p>                                                |
 
