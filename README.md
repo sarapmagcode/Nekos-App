@@ -3,10 +3,10 @@
 :octocat: <strong>NekosApp</strong> is an Android application that allows users view and download random anime images.
 
 ## Features
-- [x] View random anime images
-- [x] View single anime image
-- [x] Pinch zoom anime image
-- [x] Download anime image
+- [x] View random images
+- [x] View single image
+- [x] Pinch zoom
+- [x] Download
 
 ## Previews
 
