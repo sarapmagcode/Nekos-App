@@ -14,6 +14,7 @@
 ## Technologies and Frameworks
 
 - **Retrofit**: Networking library for Android that simplifies handling of RESTful web services in your apps.
+- **XML**: Traditional layout for UI components.
 
 ## Nekos API
 
