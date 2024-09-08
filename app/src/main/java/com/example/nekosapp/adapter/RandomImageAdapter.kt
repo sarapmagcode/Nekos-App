@@ -30,8 +30,6 @@ class RandomImageAdapter(
                     error(R.drawable.ic_broken_image)
                 }
             }
-
-            // TODO: Set dominant color of image to background color of imageview
         }
     }
 
