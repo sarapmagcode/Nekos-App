@@ -11,7 +11,7 @@
 
 ## Previews
 
-| <img src="previews/Screenshot-1.png" alt="Screenshot 1" width="150"/> | <img src="previews/Screenshot-2.png" alt="Screenshot 2" width="150" /> |
+| <img src="previews/Screenshot-1.png" alt="Screenshot 1" width="200"/> | <img src="previews/Screenshot-2.png" alt="Screenshot 2" width="200" /> |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------|
 | <p align="center">Random Images List</p>                              | <p align="center">Download Image</p>                                   |
 
