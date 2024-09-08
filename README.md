@@ -11,9 +11,12 @@
 
 ## Previews
 
+| <img src="![Screenshot_20240908_145136_framed.png](..%2F..%2FScreenshot_20240908_145136_framed.png)" alt="Screenshot 1" width="150"/> | <img src="![Screenshot_20240908_145643_framed.png](..%2F..%2FScreenshot_20240908_145643_framed.png)" alt="Screenshot 2" width="150"/> |
+
 ## Technologies and Frameworks
 
-- **Retrofit**: Networking library for Android that simplifies handling of RESTful web services in your apps.
+- **Retrofit**: Networking library for Android that simplifies handling of RESTful web services in
+  your apps.
 - **XML**: Traditional layout for UI components.
 
 ## Nekos API
