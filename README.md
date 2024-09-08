@@ -1,6 +1,6 @@
 <h1 align="center">Nekos App</h1>
 <h4 align="center">Unofficial Android App</h4>
-:cat: <strong>NekosApp</strong> is an Android application that allows users view and download random anime images.
+:cat: <strong>NekosApp</strong> is an Android application that allows users to view and download random anime images.
 
 ## Features
 
@@ -17,9 +17,11 @@
 
 ## Technologies and Frameworks
 
-- **Retrofit**: Networking library for Android that simplifies handling of RESTful web services in
-  your apps.
-- **XML**: Traditional layout for UI components.
+- **Kotlin**: A modern, concise, and interoperable programming language for Android development.
+- **Coroutines**: Lightweight concurrency in Kotlin for writing non-blocking, asynchronous code.
+- **Android Jetpack**: A set of libraries and tools to simplify and accelerate Android app development.
+- **Retrofit**: A type-safe HTTP client for Android and Java, used to simplify API calls and network requests.
+- **XML**: A markup language used for defining data structures, often used for layouts and data storage in Android development.
 
 ## Nekos API
 
